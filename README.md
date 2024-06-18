@@ -6,3 +6,7 @@ Login Form
 
 ![Screenshot 2024-06-19 024024](https://github.com/Naidu727/Expense-Management-System-MERNAPP/assets/130582105/1f6fb402-9e3f-43ae-942e-4e4731f1162b)
 
+Monthly Expenses
+
+![Screenshot 2024-06-19 030114](https://github.com/Naidu727/Expense-Management-System-MERNAPP/assets/130582105/6d4f7d2e-9b6f-4c0b-8ab2-a33977eebacc)
+
